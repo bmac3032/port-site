@@ -1,5 +1,5 @@
 <h1>This is my personal website</h1>
-<h2>Designed to showcase my skills, projects, and revelent experience</h2>
+<h2>Designed to showcase my skills, projects, and relevant experience</h2>
 
 I have a background in JavaScript, and I'm currently studying React.js, hoping to land a role somewhere soon.
 
